@@ -1,2 +1,4 @@
 Flask==2.2.2
 gunicorn
+WTForms~=3.0.1
+MyApplication~=0.1.0
