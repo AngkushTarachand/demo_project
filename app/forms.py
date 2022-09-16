@@ -1,4 +1,4 @@
-import flask_wft
+import flask_wtf
 import wtforms
 
 

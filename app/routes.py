@@ -14,4 +14,4 @@ def register():
 
         t_username = my_register_form.username.data
         t_password = my_register_form.password.data
-        t_
+        t_email = my_register_form.
